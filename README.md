@@ -16,7 +16,7 @@
 *  熟练使用apicloud开发跨平台的Web Application。
 * 熟练使用最新的技术开发微信小程序。
 * 熟练使用 Git ,SVN等版本控制工具
-* 熟练 MongoBD, 2年的 MongoBD开发经验
+* 熟练 Mongodb, 2年的 Mongodb开发经验
 *  熟练使用常用的 bash 命令， 近2年使用 Mac OS X 进行日常开发工作
 *  熟练使用less、stylus,webpack,node,meteor,等等前端热门技术
 
