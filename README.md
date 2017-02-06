@@ -18,11 +18,11 @@
 
 ##技能清单
 
-*    **vue vuex **
-*   **react redux **
+*    ** vue vuex **
+*   ** react redux **
 *  angular1.x 
-*   **meteor **  node  mongodb
-*   **ecmascript 6/7 **
+*   ** meteor **  node  mongodb
+*   ** ecmascript 6/7 **
 *  Hybrid App ( **apicloud **, cordova,react native,ionic)
 
 ##自我简介
