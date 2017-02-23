@@ -1,9 +1,10 @@
 #杨怡
 * 期望职位：前端工程师（成都）
+* 状态：在职（别打电话啦）
 * 3年工作经验（2年使用angular,react,vue框架的经验）
-* 手机/微信： 18702845559  
-* QQ:   639293382 
-* 邮箱:   639293382@qq.com
+* 手机/微信： xxxxx  
+* QQ:   xxxxx 
+* 邮箱:   xxx@qq.com
 * GitHub:  https://github.com/liangxiaojuan
 
 ##开源项目
